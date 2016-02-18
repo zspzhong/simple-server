@@ -1,0 +1,19 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.0",
+    "connect-mongo": "^0.8.2",
+    "cookie-parser": "^1.4.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "iconv-lite": "^0.4.13",
+    "jade": "^1.11.0",
+    "lodash": "^4.4.0",
+    "mysql": "^2.10.2",
+    "nodemailer": "^2.1.0",
+    "request": "^2.69.0"
+  }
+}
