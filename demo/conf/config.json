@@ -11,7 +11,21 @@
   "appOption": {
     "servicePrefix": "demo",
     "viewEngine": "jade",
-    "viewPath": "/Users/shasharoman/private/simple-server/demo/src/common/template"
+    "viewPath": "/Users/shasharoman/private/simple-server/demo/src/common/template",
+    "middleware": [
+      {
+        "name": "language",
+        "path": ""
+      },
+      {
+        "name": "allowCrossDomain",
+        "path": "/demo"
+      },
+      {
+        "name": "logger",
+        "path": ""
+      }
+    ]
   },
   "applicationList": [
     "hello-world"
