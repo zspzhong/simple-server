@@ -1,5 +1,5 @@
 {
-  "modelPath": "model/index",
+  "initial": "model/index",
   "serviceList": [
     {
       "name": "helloWorld",
