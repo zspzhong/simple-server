@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-nohup node /root/simple-server/lib/runScript.js -f /root/simple-server/conf/config.json -c $1 -a $2 1>/root/simple-server/logs/script_access.log 2>/root/simple-server/logs/script_error.log &
+nohup node /root/simple-server/lib/runScript.js -f /root/simple-server/conf/config.json -c $1 -a $2 1>>/root/simple-server/logs/script_access.log 2>>/root/simple-server/logs/script_error.log &
