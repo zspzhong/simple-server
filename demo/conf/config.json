@@ -5,7 +5,6 @@
     "port": "8001",
     "rootPath": "/Users/shasharoman/private/simple-server/demo",
     "srcPath": "/Users/shasharoman/private/simple-server/demo/src",
-    "devStaticPath": "/Users/shasharoman/private/simple-server/demo/dev",
     "baseUrl": "http://127.0.0.1:8001"
   },
   "appOption": {

@@ -12,3 +12,8 @@
 > 2. 8002: simple-school
 > 3. 8003: simple-stock
 > 4. 8004: simple-tools
+
+## 使用约束
+> 1. 内部相互请求统一使用lib/utils/innerRequest
+> 2. logger记录统一使用lib/logger
+> 3. redis统一使用lib/utils/redisUtils获取实例
