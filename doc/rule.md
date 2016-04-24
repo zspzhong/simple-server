@@ -11,7 +11,7 @@
 > 1. 8001: simple-blog
 > 2. 8002: simple-school
 > 3. 8003: simple-stock
-> 4. 8004: simple-tools
+> 4. 8004: simple-auth
 
 ## 使用约束
 > 1. 内部相互请求统一使用lib/utils/innerRequest
