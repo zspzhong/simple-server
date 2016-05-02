@@ -4,7 +4,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "body-parser": "^1.15.0",
-    "connect-mongo": "^0.8.2",
+    "connect-redis": "^3.0.2",
     "cookie-parser": "^1.4.0",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
