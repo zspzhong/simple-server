@@ -1,4 +1,6 @@
 #!/bin/bash
+# $1:name $2:port $3:app
+cd /Users/shasharoman/private
 mkdir simple-$1
 cd simple-$1
 git init
