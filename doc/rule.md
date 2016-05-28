@@ -12,6 +12,8 @@
 > 2. 8002: simple-school
 > 3. 8003: simple-stock
 > 4. 8004: simple-auth
+> 5. 8005: simple-zzz
+> 6. 8005: simple-sms
 
 ## 使用约束
 > 1. 内部相互请求统一使用lib/utils/innerRequest
