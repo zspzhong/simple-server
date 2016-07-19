@@ -63,7 +63,7 @@ then
 	echo `cat << meta-info.json
 	{
 	  "initial": "",
-	  "serviceList": [
+	  "service": [
 	    {
 	      "name": "",
 	      "path": "",
