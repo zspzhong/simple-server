@@ -2,8 +2,10 @@
   "name": "simple-server",
   "version": "1.0.0",
   "dependencies": {
+    "ali-oss": "^4.4.4",
     "async": "^1.5.2",
     "body-parser": "^1.15.0",
+    "concat-stream": "^1.5.1",
     "connect-redis": "^3.0.2",
     "cookie-parser": "^1.4.0",
     "ejs": "^2.4.1",
@@ -11,14 +13,14 @@
     "express-session": "^1.13.0",
     "iconv-lite": "^0.4.13",
     "ioredis": "^1.15.1",
-    "jade": "^1.11.0",
     "lodash": "^4.4.0",
+    "multer": "^1.1.0",
     "mysql": "^2.10.2",
+    "node-uuid": "^1.4.7",
     "nodemailer": "^2.1.0",
     "request": "^2.69.0",
     "webpack": "^1.12.14",
     "webpack-dev-middleware": "^1.5.1",
-    "node-uuid": "^1.4.7",
     "winston": "^2.2.0"
   }
 }
