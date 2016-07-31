@@ -14,11 +14,11 @@
 
 ## 端口
 * 8001: simple-blog
-* 8002: simple-school
+* 8002: simple-archive
 * 8003: simple-stock
 * 8004: simple-auth
 * 8005: simple-zzz
-* 8005: simple-sms
+* 8006: simple-sms
 
 ## 公共模块使用
 * 应用服务相互调用统一使用`lib/utils/innerRequest`
