@@ -21,7 +21,7 @@
 * 8006: simple-sms
 
 ## 公共模块使用
-* 应用服务相互调用统一使用`lib/utils/innerRequest`
+* 应用服务相互调用统一使用`lib/util/inner`
 * logger统一使用`lib/logger`
-* redis统一使用`lib/utils/redisUtils`
-* mysql统一使用`lib/dao/dataUtils`
+* redis统一使用`lib/util/redis`
+* mysql统一使用`lib/dao/dataUtil`
