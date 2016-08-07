@@ -9,6 +9,7 @@
     "connect-redis": "^3.0.2",
     "cookie-parser": "^1.4.0",
     "ejs": "^2.4.1",
+    "elasticsearch": "^11.0.1",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
     "iconv-lite": "^0.4.13",
